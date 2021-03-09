@@ -1,6 +1,3 @@
-# Databricks notebook source
-# MAGIC %run ../../setup
-
 # COMMAND ----------
 
 # DBTITLE 1,Import needed libraries
